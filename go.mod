@@ -1,7 +1,7 @@
 module moul.io/sshportal
 
 require (
-	github.com/anmitsu/go-shlex v0.0.0-20200502080107-070676123096
+	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be
 	github.com/asaskevich/govalidator v0.0.0-20200428143746-21a406dcc535
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
 	github.com/creack/pty v1.1.10 // indirect
